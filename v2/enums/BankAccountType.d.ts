@@ -1,4 +1,4 @@
 export declare enum BankAccountType {
-  CHECKINGS = "CHECKING",
+  CHECKING = "CHECKING",
   SAVINGS = "SAVINGS",
 }
